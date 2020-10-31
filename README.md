@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 # hypeblog
 practicando git
