@@ -12,4 +12,10 @@ master 2
 
 mi vida y mi tragedia
 
+<<<<<<< HEAD
 muchas loquera de mi 
+=======
+muchas loquera de mi 
+mas lo quera de mi
+nada de loco
+>>>>>>> protecto-mejorado
